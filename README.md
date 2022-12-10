@@ -1,4 +1,4 @@
-# Lista-5-Exerc-cio-2
+# Lista-5-Exercicio-2
 Faça um programa para imprimir:     1
                                     1   2
                                     1   2   3
